@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dolani the Data Enthusiast
+👋 Hi, I’m Dolani the Data Enthusiast
 
  🔍 I love diving into datasets to uncover insights and tell compelling stories.
  

@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Dolani the Data Ethusiast
-- 👀 I’m interested in analysing data
-- 🌱 I’m currently learning Python, SQL & Tableau
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dolani101@gmail.com
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Dolani the Data Enthusiast
 
-<!---
-Dolani02/Dolani02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🔍 Ilove diving into datasets to uncover insights and tell compelling stories.
+💻 Currently sharpening my skills in Python, SQL, and Tableau.
+🤝 Always open to collaborations that grow my portfolio and spark creativity.
+📫 Let’s connect: dolani101@gmail.com
+🎉 Fun fact: I believe every dataset has a hidden adventure—let’s explore it together!
